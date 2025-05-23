@@ -33,7 +33,7 @@ Power BI – for data visualization and dashboard creation
 
 DAX – for custom measures and calculated columns
 
-Interact with filters like:
+# Interact with filters like:
 
 Country
 
